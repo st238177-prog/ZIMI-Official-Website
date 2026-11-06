@@ -1,0 +1,6 @@
+# Robots.txt for ZIMI Official Portfolio
+# Production Note: Replace example-artist-domain.com with verified client production domain upon DNS launch.
+User-agent: *
+Allow: /
+
+Sitemap: https://example-artist-domain.com/sitemap.xml
